@@ -1,0 +1,11 @@
+th {
+    font-family:Arial;
+    color:black;
+    background-color:lightgrey;
+}
+thead {
+    display:table-header-group;
+}
+tbody {
+    display:table-row-group;
+}
